@@ -17,7 +17,7 @@
 
 window.app = window.app || {}; // there should only be one of these...
 
-
+localStorage.clear();
 
 // Set to "true" if you want the console.log messages to appear.
 
